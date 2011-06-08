@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="C:/Users/William/Desktop/Bukkit and source/bukkit-0.0.1-SNAPSHOT.jar" sourcepath="C:/Users/William/Desktop/Bukkit and source/Bukkit-Bukkit-764ef1c/src/main"/>
+	<classpathentry kind="lib" path="C:/Users/William/Desktop/Bukkit and source/Permissions.jar" sourcepath="C:/Users/William/Desktop/Bukkit and source/TheYeti-Permissions-668e355/src/main"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,12 @@
+name: Pluginmanager
+main: me.Massacrer.Pluginmanager.Pluginmanager
+version: 1.0
+author: Massacrer
+commands:
+  pm:
+    description: Loads, enables and disables plugins
+    usage: |
+           /<command>
+           /<command> enable "plugin name" | enables specified plugin
+           /<command> disable "plugin name" | disables specified plugin
+           /<command> load "plugin name" | loads specified plugin
