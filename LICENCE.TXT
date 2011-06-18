@@ -1,0 +1,6 @@
+Modification, use and distribution of this code or significant parts of it (in source or binary form) is permitted, subject to the following conditions:
+
+ 1. Any derivative works based on this code or a significant part of it must retain this notice in their source and / or documentation
+ 2. The original author of this work must be credited as such in the documentation of any derivative works
+
+The original author accepts no responsibility for any damages arising from the use of this software, however caused. The end user is responsible for the safety of their own data, and Bukkit server administrators are advised to maintain regular backups of important files to protect against any damage to their server.

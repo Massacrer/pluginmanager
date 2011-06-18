@@ -26,6 +26,7 @@ import org.bukkit.plugin.InvalidDescriptionException;
 import org.bukkit.plugin.InvalidPluginException;
 import org.bukkit.plugin.Plugin;
 import org.bukkit.plugin.PluginLoader;
+import org.bukkit.plugin.PluginManager;
 import org.bukkit.plugin.RegisteredListener;
 import org.bukkit.plugin.SimplePluginManager;
 import org.bukkit.plugin.UnknownDependencyException;
@@ -36,7 +37,7 @@ import com.nijikokun.bukkit.Permissions.Permissions;
 
 @SuppressWarnings("unused")
 public class Pluginmanager extends JavaPlugin {
-	org.bukkit.plugin.PluginManager pm = null;
+	PluginManager pm = null;
 	Logger log = Logger.getLogger("Minecraft");
 	static PermissionHandler permissionHandler;
 	boolean debug = false;
@@ -314,3 +315,15 @@ public class Pluginmanager extends JavaPlugin {
 		}
 	}
 }
+
+
+
+/*
+ * Plugin plugin //plugin to remove
+//code here to make plugin's File object "file" visible; //declared by JavaPlugin
+plugin.file.//file close code here;
+lookupNames.remove(plugin.getDescription().getName();
+
+
+plugins.remove(plugin);
+ */
